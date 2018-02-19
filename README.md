@@ -13,3 +13,7 @@
 7. Find the maximum element of a binary tree without using recursion.
 8. Print the element of a binary tree in Bottom to Top and Left to Right order.
 9. Give an algorithm for checking the existence of a path from root with given sum.
+
+## Misc
+* Implement an LRU cache
+* Implement a cache with configurable replacement strategy - LRU, MRU,Random,LFU,ARC
